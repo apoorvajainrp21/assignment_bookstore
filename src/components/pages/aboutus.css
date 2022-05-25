@@ -1,0 +1,66 @@
+body {
+    background-color:
+        #E5E8E8;
+    color: #154360;
+}
+
+.bookworldtag {
+    color: #B7950B;
+}
+
+.button_authors {
+    background-color: #F4D03F;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    width: 90px;
+    padding: 5px;
+    margin-right: 40px;
+    margin-bottom: -10px;
+
+}
+
+#btn-auth-home {
+
+    background-color: #F4D03F;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    width: 400px;
+    padding: 5px;
+    margin-right: 40px;
+    margin-bottom: -10px;
+
+
+}
+
+#btn-auth-home:hover {
+    background-color: #AED6F1;
+    color: #3498DB;
+    border: 2px;
+    border-color: #3498DB;
+}
+
+#btn-auth-home span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+#btn-auth-home span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+#btn-auth-home:hover span {
+    padding-right: 25px;
+}
+
+#btn-auth-home:hover span:after {
+    opacity: 1;
+    right: 0;
+}

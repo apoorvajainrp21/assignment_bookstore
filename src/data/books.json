@@ -1,0 +1,388 @@
+[
+  {
+    "id": "2767052-the-hunger-games",
+    "title": "The Hunger Games",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447303603l/2767052.jpg",
+    "rating": "4.33",
+    "genre": [
+      "young-adult",
+      "fiction",
+      "science-fiction",
+      "dystopia",
+      "fantasy",
+      "science-fiction"
+    ],
+    "price": "185",
+    "description": "Could you survive on your own, in the wild, with everyone out to make sure you don't live to see the morning?",
+    "authorName": "Suzanne Collins",
+    "authorId": "153394.Suzanne_Collins"
+  },
+  {
+    "id": "2.Harry_Potter_and_the_Order_of_the_Phoenix",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2.jpg",
+    "rating": "4.49",
+    "genre": [
+      "fantasy",
+      "young-adult",
+      "fiction"
+    ],
+    "price": "250",
+    "description": "There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?",
+    "authorName": "J.K. Rowling",
+    "authorId": "1077326.J_K_Rowling"
+  },
+  {
+    "id": "2657.Journey",
+    "title": "Journey To The Edge Of The Earth : True Adventure Of Naval Officer Abhilash Tomy",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9780143450139/md_9780143450139_030320221312496.jpg",
+    "rating": "4.27",
+    "genre": [
+      "classics",
+      "fiction",
+      "historical",
+      "historical-fiction",
+      "academic",
+      "school"
+    ],
+    "price": "340",
+    "description": "About the Book: Journey to the Edge of the Earth: A True Adventure Story Dive right into this rousing tale of heroism and ambition as we follow Commander Abhilash Tomy to the farthest reaches of the oceans as he sails single handed round the world for 151 days straight!",
+    "authorName": "Abhilash Tomy",
+    "authorId": "Abhilash Tomy"
+  },
+  {
+    "id": "1885.Pride_and_Prejudice",
+    "title": "Pride and Prejudice",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885.jpg",
+    "rating": "4.26",
+    "genre": [
+      "classics",
+      "fiction",
+      "romance",
+      "historical",
+      "historical-fiction",
+      "literature",
+      "historical",
+      "novels",
+      "romance",
+      "historical-romance",
+      "classics",
+      "classic-literature",
+      "adult"
+    ],
+    "price": "240",
+    "authorName": "Jane Austen",
+    "authorId": "1265.Jane_Austen"
+  },
+  {
+    "id": "41865.Twilight",
+    "title": "Twilight",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865.jpg",
+    "rating": "3.59",
+    "genre": [
+      "young-adult",
+      "fantasy",
+      "romance",
+      "paranormal",
+      "vampires",
+      "fiction",
+      "fantasy",
+      "paranormal"
+    ],
+    "price": "155",
+    "description": "About three things I was absolutely positive.",
+    "authorName": "Stephenie Meyer",
+    "authorId": "941441.Stephenie_Meyer"
+  },
+  {
+    "id": "19063.The_Book_Thief",
+    "title": "World On The Wing",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9781509841059/md_9781509841059_180520221018090.jpg",
+    "rating": "4.37",
+    "genre": [
+      "historical",
+      "historical-fiction",
+      "fiction",
+      "young-adult"
+    ],
+    "price": "360",
+    "description": "The Global Odyssey of Migratory Birds 'A vaulting triumph of a book Isabella Tree, author of Wilding A master storyteller, Weidensaul communicates so much joy in the sheer act of witnessing and such exhilaration in the advances of the science behind what he sees that we are slow to grasp the extent of the ecological crisis that he outlines. ",
+    "authorName": "Scott Weidensaul",
+    "authorId": "Scott-Weidensaul"
+  },
+  {
+    "id": "7613.Animal_Farm",
+    "title": "She Gets The Girls",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9781398502635/md_9781398502635_180420221724648.jpg",
+    "rating": "3.93",
+    "genre": [
+      "classics",
+      "fiction",
+      "science-fiction",
+      "dystopia",
+      "fantasy",
+      "literature"
+    ],
+    "price": "390",
+    "description": "This book reminded me of all the teenage rom-com movies I watched as a teenager, in the late 90’s, except for that the mains in this book are queer. ",
+    "authorName": " Rachel Lippincott ",
+    "authorId": "3706.George_Orwell"
+  },
+  {
+    "id": "11127.The_Chronicles_of_Narnia",
+    "title": "The Chronicles of Narnia",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449868701l/11127._SY475_.jpg",
+    "rating": "4.26",
+    "genre": [
+      "fantasy",
+      "classics",
+      "fiction",
+      "young-adult",
+      "childrens",
+      "christian",
+      "adventure",
+      "science-fiction-fantasy",
+      "christian-fiction",
+      "childrens",
+      "middle-grade"
+    ],
+    "price": "250",
+    "description": "Journeys to the end of the world, fantastic creatures, and epic battles between good and evil—what more could any reader ask for in one book? The book that has it all is ",
+    "authorName": "C.S. Lewis",
+    "authorId": "1069006.C_S_Lewis"
+  },
+  {
+    "id": "30.J_R_R_Tolkien_4_Book_Boxed_Set",
+    "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346072396l/30.jpg",
+    "rating": "4.59",
+    "genre": [
+      "fantasy",
+      "fiction",
+      "classics"
+    ],
+    "price": "320",
+    "description": "This four-volume, boxed set contains J.R.R. Tolkien's epic masterworks The Hobbit and the three volumes of The Lord of the Rings (The Fellowship of the Ring, The Two Towers, and The Return of the King).",
+    "authorName": "J.R.R. Tolkien",
+    "authorId": "656983.J_R_R_Tolkien"
+  },
+  {
+    "id": "18405.Gone_with_the_Wind",
+    "title": "Adbhut : Marvellous Creatures Of Indian Myth & Folklore",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9789391047238/md_9789391047238_180520221019319.jpg",
+    "rating": "4.29",
+    "genre": [
+      "classics",
+      "historical",
+      "historical-fiction",
+      "fiction",
+      "romance",
+      "historical"
+    ],
+    "price": "430",
+    "description": "Scarlett O'Hara, the beautiful, spoiled daughter of a well-to-do Georgia plantation owner, must use every means at her disposal to claw her way out of the poverty she finds herself in after Sherman's March to the Sea.",
+    "authorName": "Meena Arora Nayak ",
+    "authorId": "11081.Meena-Arora-Nayak "
+  },
+  {
+    "id": "11870085-the-fault-in-our-stars",
+    "title": "The Fault in Our Stars",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360206420l/11870085.jpg",
+    "rating": "4.22",
+    "genre": [
+      "young-adult",
+      "fiction",
+      "romance",
+      "contemporary",
+      "realistic-fiction",
+      "young-adult",
+      "teen",
+      "young-adult",
+      "coming-of-age",
+      "drama",
+      "novels",
+      "death"
+    ],
+    "price": "280",
+    "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+    "authorName": "John Green",
+    "authorId": "1406384.John_Green"
+  },
+  {
+    "id": "370493.The_Giving_Tree",
+    "title": "The Giving Tree",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174210942l/370493._SX318_.jpg",
+    "rating": "4.37",
+    "genre": [
+      "childrens",
+      "childrens",
+      "picture-books",
+      "classics",
+      "fiction"
+    ],
+    "price": "520",
+    "description": "\"Once there was a tree...and she loved a little boy.\"",
+    "authorName": "Shel Silverstein",
+    "authorId": "435477.Shel_Silverstein"
+  },
+  {
+    "id": "6185.Wuthering_Heights",
+    "title": "Adventures In Reading",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9789355204035/md_9789355204035_110520221004624.jpg",
+    "rating": "3.85",
+    "genre": [
+      "classics",
+      "fiction",
+      "romance",
+      "gothic",
+      "literature",
+      "historical",
+      "historical-fiction",
+      "literature",
+      "19th-century",
+      "classics",
+      "classic-literature",
+      "novels",
+      "historical"
+    ],
+    "price": "380",
+    "authorName": "Ruskin Bond",
+    "authorId": "4191.Emily_Bront_"
+  },
+  {
+    "id": "968.The_Da_Vinci_Code",
+    "title": "The Da Vinci Code",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579621267l/968.jpg",
+    "rating": "3.84",
+    "genre": [
+      "fiction",
+      "mystery",
+      "thriller",
+      "suspense"
+    ],
+    "price": "13.58",
+    "authorName": "Dan Brown",
+    "authorId": "630.Dan_Brown"
+  },
+  {
+    "id": "930.Memoirs_of_a_Geisha",
+    "title": "Memoirs of a Geisha",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388367666l/930.jpg",
+    "rating": "4.11",
+    "genre": [
+      "fiction",
+      "historical",
+      "historical-fiction",
+      "romance",
+      "historical",
+      "classics",
+      "cultural",
+      "japan",
+      "adult",
+      "novels",
+      "cultural",
+      "asia",
+      "adult-fiction"
+    ],
+    "price": "145",
+    "description": "A literary sensation and runaway bestseller, this brilliant debut novel presents with seamless authenticity and exquisite lyricism the true confessions of one of Japan's most celebrated geisha.",
+    "authorName": "Arthur Golden",
+    "authorId": "614.Arthur_Golden"
+  },
+  {
+    "id": "5297.The_Picture_of_Dorian_Gray",
+    "title": "Murder On The Orient Express.",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9780007527502/md_9780007527502.jpg",
+    "rating": "4.08",
+    "genre": [
+      "classics",
+      "fiction",
+      "horror",
+      "fantasy",
+      "literature",
+      "gothic",
+      "novels",
+      "literature",
+      "19th-century",
+      "classics",
+      "classic-literature",
+      "lgbt"
+    ],
+    "price": "270",
+    "description": "Written in his distinctively dazzling manner, Oscar Wilde’s story of a fashionable young man who sells his soul for eternal youth and beauty is the author’s most popular work. The tale of Dorian Gray’s moral disintegration caused a scandal when it ﬁrst appeared in 1890, but though Wilde was attacked for the novel’s corrupting inﬂuence, he responded that there is, in fact,",
+    "authorName": " Agatha Christie",
+    "authorId": "3565.Oscar_Wilde"
+  },
+  {
+    "id": "5297.The_Picture_of_Dorian_Gray",
+    "title": "Unfetter : Heal Your Mind Body & Spirit",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9789355204127/md_9789355204127_180520221019063.jpg",
+    "rating": "3.9",
+    "genre": [
+      "classics",
+      "fiction",
+      "horror",
+      "fantasy",
+      "literature",
+      "gothic",
+      "novels",
+      "literature",
+      "19th-century",
+      "classics",
+      "classic-literature",
+      "lgbt"
+    ],
+    "price": "400",
+    "description": "Written in his distinctively dazzling manner, Oscar Wilde’s story of a fashionable young man who sells his soul for eternal youth and beauty is the author’s most popular work. The tale of Dorian Gray’s moral disintegration caused a scandal when it ﬁrst appeared in 1890, but though Wilde was attacked for the novel’s corrupting inﬂuence, he responded that there is, in fact,",
+    "authorName": " Tanuja Sodhi ",
+    "authorId": "3565.Tanuja_Sodhi "
+  },
+  {
+    "id": "5297.The_Picture_of_Dorian_Gray",
+    "title": "Positive Thinking : How To Create A World Full Of Possibilities",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9789389305463/md_9789389305463_130520221046042.jpg",
+    "rating": "4.0",
+    "genre": [
+      "classics",
+      "fiction",
+      "horror",
+      "fantasy",
+      "literature",
+      "gothic",
+      "novels",
+      "literature",
+      "19th-century",
+      "classics",
+      "classic-literature",
+      "lgbt"
+    ],
+    "price": "300",
+    "description": "No description available",
+    "authorName": "  Neil Francis ",
+    "authorId": "3565.Tanuja_Sodhi "
+  },
+  {
+    "id": "5297.The_Picture_of_Dorian_Gray",
+    "title": "Make Your Life Extraordinary Right Now : Secrets To Better Living From The Supergurus",
+    "coverImageSrc": "https://cdn01.sapnaonline.com/product_media/9789391047771/md_9789391047771_180520221019259.jpg",
+    "rating": "4.38",
+    "genre": [
+      "classics",
+      "fiction",
+      "horror",
+      "fantasy",
+      "literature",
+      "gothic",
+      "novels",
+      "literature",
+      "19th-century",
+      "classics",
+      "classic-literature",
+      "lgbt"
+    ],
+    "price": "370",
+    "description": "No description available",
+    "authorName": " Na",
+    "authorId": "3565.Tanuja_Sodhi "
+  }
+]

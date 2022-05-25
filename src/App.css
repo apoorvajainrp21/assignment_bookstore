@@ -1,0 +1,598 @@
+body {
+  font-family: "Dosis", sans-serif;
+}
+
+h1 {
+  font-weight: 100;
+  font-style: normal;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.cover-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.cover-img img {
+  height: 300px;
+  width: 100%;
+  transition: transform 2s;
+}
+
+.cover-img:hover img {
+  transform: scale(1.2);
+}
+
+.cover-img:hover .details {
+  display: inline;
+}
+
+.details {
+  height: 100%;
+  width: 100%;
+  display: hidden;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.8);
+  display: none;
+}
+
+.details .content {
+  position: relative;
+  top: 20%;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.bottom a,
+button {
+  margin: 5px;
+}
+
+@media screen and (max-width: 576px) {
+  .cover-img img {
+    padding: 0 30px;
+    height: 400px;
+  }
+}
+
+
+/* @media screen and (max-width: 667px) {
+  .search-header {
+    margin-top: 10px;
+  }
+} */
+
+/*LOGIN,REGISTER*/
+
+/***    General     ***/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif
+}
+
+body {
+  margin: 0 auto
+}
+
+.m-5-auto {
+  margin: 5rem auto
+}
+
+.primary-button {
+  background-color: #3498DB;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 160px;
+  padding: 5px 5px;
+  margin: 10px;
+
+
+}
+
+/*.btn-outline-primary {
+  border: none;
+  color: white;
+}
+
+.btn-outline-primary span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.btn-outline-primary span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.btn-outline-primary:hover span {
+  padding-right: 25px;
+}
+
+.btn-outline-primary:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.btn-outline-primary:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+}
+
+/*----*/
+.button_about {
+  background-color: #F4D03F;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  width: 90px;
+  padding: 5px;
+  margin-right: 40px;
+  margin-bottom: -10px;
+
+}
+
+.button_about:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+}
+
+.loginbttn {
+  margin-left: 30px;
+}
+
+.btn-login1,
+.btn-reg1 {
+  background-color: #F4D03F;
+  color: white;
+  border: none;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.btn-login1:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+}
+
+.btn-reg1:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+
+}
+
+.primary-button:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+
+}
+
+.books-button {
+  background-color: #3498DB;
+  color: white;
+  border: none;
+  width: 100px;
+  border-radius: 5px;
+  padding: 5px 5px;
+}
+
+.books-button:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+
+}
+
+#btn-log-home {
+  background-color: #F4D03F;
+}
+
+.button1 {
+  background-color: #F4D03F;
+  color: white;
+  border: none;
+  width: 190px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 20px;
+
+}
+
+.button1:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+}
+
+.button_authors {
+  width: 120px;
+}
+
+.button_aboutus {
+  width: 110px;
+}
+
+.button_authors,
+.button_aboutus {
+  background-color: #F4D03F;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+  margin-bottom: 20px;
+
+}
+
+.button_authors:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+}
+
+.button_aboutus:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+}
+
+#login-btn {
+  width: 90px;
+}
+
+/* button-register-home-start */
+.button_registering {
+
+  background-color: #F4D03F;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+
+.button_registering {
+  width: 110px;
+}
+
+.button_registering span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button_registering span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button_registering:hover span {
+  padding-right: 25px;
+}
+
+.button_registering:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.btnnn {
+  background-color: #F4D03F;
+  border: none;
+  color: white;
+  margin-left: 50px;
+  margin-bottom: -10px;
+
+
+}
+
+.button_registering:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+}
+
+
+/* button-register-home-end */
+#btn-auth-home {
+  width: 240px;
+}
+
+#btn-auth-home span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#btn-auth-home span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#btn-auth-home:hover span {
+  padding-right: 25px;
+}
+
+#btn-auth-home:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/* ---------- */
+#btn-exp-home span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#btn-exp-home span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#btn-exp-home:hover span {
+  padding-right: 25px;
+}
+
+#btn-exp-home:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/* --------- */
+#btn-log-home span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#btn-log-home span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#btn-log-home:hover span {
+  padding-right: 25px;
+}
+
+#btn-log-home:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.btn-log-home:hover {
+  background-color: #AED6F1;
+  color: #3498DB;
+  border: 2px;
+  border-color: #3498DB;
+}
+
+/* ------ */
+#btn-abtus-home span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#btn-abtus-home span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#btn-abtus-home:hover span {
+  padding-right: 25px;
+}
+
+#btn-abtus-home:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/***    Landing Page     ***/
+.main-title,
+.main-para {
+  color: #f1f1f1
+}
+
+.main-title {
+  padding-top: 10rem;
+  font-size: 5rem;
+  font-family: sans-serif;
+  text-transform: uppercase
+}
+
+.main-para {
+  font-size: 2.5rem;
+  text-Transform: capitalize;
+  font-family: sans-serif;
+}
+
+#reg_btn span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#reg_btn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#login-btn:hover span {
+  padding-right: 25px;
+}
+
+#reg_btn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/* LOGIN BUTTON */
+#login-btn span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#login-btn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#login-btn:hover span {
+  padding-right: 25px;
+}
+
+#login-btn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/***    Login Page     ***/
+h2 {
+  font-weight: 300
+}
+
+form {
+  display: inline-block;
+  background: #f3f3f3;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 2rem;
+  margin: 2rem 0 1rem 0
+}
+
+form label {
+  float: left;
+  font-size: .9rem;
+  margin: 0;
+  padding: 0
+}
+
+.right-label {
+  float: right;
+  cursor: pointer
+}
+
+input {
+  width: 15rem;
+  padding: .3rem;
+  border-radius: 5px;
+  outline: none;
+  border: none
+}
+
+
+
+#sub_btn {
+  display: block;
+  width: 100%;
+  padding: .3rem;
+  border: none;
+  background: #222;
+  color: #fff;
+  border-radius: 3px;
+}
+
+#sub_btn:hover {
+  background: #333;
+  transition: all .5s
+}
+
+footer p {
+  margin: 0;
+  font-size: .9rem
+}
+
+/***    Register Page     ***/
+#checkbox {
+  width: 1rem
+}
+
+form span {
+  font-size: .8rem
+}
+
+#reset_pass_lbl {
+  float: left
+}
+
+/***    Home Page     ***/
+.home-page-title {
+  color: #154360;
+  padding-bottom: 60px;
+}
+
+body {
+  background-color:
+    #EAECEE;
+}
+
+
+.nav-heading-home {
+  font-size: 20px;
+  color: #154360;
+  text-align: center;
+  padding-top: 10px;
+}
